@@ -1,10 +1,6 @@
-### Jason Matuszak
-<font size = "5">Senior: Computer Engineering major
-<font size = "4">Interests:
-<font size = "3">    * Robotics
-<font size = "3">    * Machine-Learning
-<font size = "4">Hobbies: 
-<font size = "3">    * Video Games
-<font size = "3">    * Skateboarding
+title = "Team Member 1: Jason Matuszak"
+Senior: Computer Engineering major
+Interests: Robotics and Machine Learning
+Hobbies:  Video games, Skateboarding, Hanging out with friends
 
-<font size = "4">Role: Hardware soldering and enclosure construction
+Role: Hardware soldering and enclosure construction
