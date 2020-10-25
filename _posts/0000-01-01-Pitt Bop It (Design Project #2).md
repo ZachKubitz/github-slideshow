@@ -1,2 +1,2 @@
-# Pitt Bop-It (Design Project #2)
+
 By: Jason Matuszak, Zach Kubitz, and Joseph Tonecha
