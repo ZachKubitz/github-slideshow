@@ -3,7 +3,7 @@ By: Jason Matuszak, Zach Kubitz, and Joseph Tonecha
 # Our Design:
 Add here
 # Team Member 1: Jason Matuszak
-Senior, Computer Engineering major
+Senior: Computer Engineering major
 * Interests:
     * Robotics
     * Machine-Learning
