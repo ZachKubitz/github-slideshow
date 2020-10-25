@@ -3,7 +3,7 @@
 ##### * Interests:
 ######    * Robotics
 ######    * Machine-Learning
-####* Hobbies: 
+#####  * Hobbies: 
 ######    * Video Games
 ######    * Skateboarding
 
