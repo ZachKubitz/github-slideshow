@@ -15,7 +15,8 @@ Junior, Computer Engineering major
 Add here
 # Team Member 3: Joseph Tonecha
 Junior, Electrical Engineering major
-*interests: Power, Machine Coding
+
+interests: Power, Machine Coding
 
 Hobbies: Disc Golf and tennis
 
