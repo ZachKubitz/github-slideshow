@@ -14,6 +14,10 @@ Role: Hardware soldering and enclosure construction
 * Hobbies: Hanging with the boys, Video games, Hockey
 * Role: Enclosure design and Device Programming 
 # Team Member 3: Joseph Tonecha
-Add here
+Junior, Electrical Engineering major
+
+Interests: Power, Machine Coding
+
+Hobbies: Disc Golf and tennis
 
  
