@@ -11,8 +11,10 @@ Interests: Robotics, Machine-Learning
 Hobbies: Video Games, Skateboarding
 Role: Hardware soldering and enclosure construction
 # Team Member 2: Zach Kubitz
-Junior, Computer Engineering major
-Add here
+* Junior, Computer Engineering major
+* Interests: Robotics, Coding
+* Hobbies: Hanging with the boys, Video games, Hockey
+* Role: Enclosure design and Device Programming 
 # Team Member 3: Joseph Tonecha
 Add here
 
