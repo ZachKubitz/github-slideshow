@@ -1,6 +1,7 @@
 # Pitt Bop-It (Design Project #2)
 By: Jason Matuszak, Zach Kubitz, and Joseph Tonecha
 # Our Design:
+Design Name: Type-it!
 * Inputs
     * Keypad ("Type-it" and game start)
     * Potentiometer ("Twist-it")
