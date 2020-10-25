@@ -1,4 +1,3 @@
-# Team Member 3: Joe Tonecha
 <font size="6">Senior: Electrical Engineering Major</font>
 * <font size="6">Interests: Power & Machine Coding</font>
 * <font size="6">Hobbies: Disc Golf & Tennis</font>
