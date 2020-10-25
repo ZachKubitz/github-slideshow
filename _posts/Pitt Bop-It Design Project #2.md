@@ -14,5 +14,8 @@ Role: Hardware soldering and enclosure construction
 Junior, Computer Engineering major
 Add here
 # Team Member 3: Joseph Tonecha
-Add here
+Junior, Electrical Engineering major
+*interests: Power, Machine Coding
+
+Hobbies: Disc Golf and tennis
 
