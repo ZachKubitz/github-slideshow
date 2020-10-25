@@ -1,9 +1,9 @@
 ### Jason Matuszak
 #### Senior: Computer Engineering major
-##### * Interests:
+##### Interests:
 ######    * Robotics
 ######    * Machine-Learning
-#####  * Hobbies: 
+##### Hobbies: 
 ######    * Video Games
 ######    * Skateboarding
 
