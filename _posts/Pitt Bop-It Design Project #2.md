@@ -6,6 +6,7 @@ Add here
 Senior, Computer Engineering major
 * Interests: Robotics, Machine-Learning
 * Hobbies: Video Games, Skateboarding
+
 Role: Hardware soldering and enclosure construction
 # Team Member 2: Zach Kubitz
 Junior, Computer Engineering major
