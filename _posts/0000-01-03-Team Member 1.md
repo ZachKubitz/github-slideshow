@@ -1,4 +1,4 @@
-# Team Member 1: Jason Matuszak
+### Team Member 1: Jason Matuszak
 Senior: Computer Engineering major
 * Interests:
     * Robotics
