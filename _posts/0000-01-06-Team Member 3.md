@@ -1,11 +1,5 @@
 # Team Member 3: Joe Tonecha
-######Senior: Electrical Engineering major
-######* Interests:
-######    * Power
-######    * Machine Coding
-######* Hobbies:
-######    * Disc Golf
-######    * Tennis
-######* Role: 
-######    * PCB Overview
-######    * Machine Coding
+<font size="6">Senior: Electrical Engineering Major</font>
+* <font size="6">Interests: Power & Machine Coding</font>
+* <font size="6">Hobbies: Disc Golf & Tennis</font>
+* <font size="6">Role: PCB Overview & Device Coding</font>
