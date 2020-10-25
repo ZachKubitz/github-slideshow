@@ -20,3 +20,5 @@ Interests: Power, Machine Coding
 
 Hobbies: Disc Golf and tennis
 
+Role: Machine Coding and PCB Overview
+
