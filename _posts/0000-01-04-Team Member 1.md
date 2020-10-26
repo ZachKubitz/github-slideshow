@@ -1,6 +1,6 @@
 ### Jason Matuszak
 
-Senior: Computer Engineering major
+Senior, Computer Engineering major
 
 Interests: Robotics and Machine Learning
 
